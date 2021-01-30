@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标签测试 on 大扬笔谈录</title>
+    <link>https://fluencity.github.io/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 标签测试 on 大扬笔谈录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://fluencity.github.io/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文字测试</title>
+      <link>https://fluencity.github.io/2013/10/chinese-test/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fluencity.github.io/2013/10/chinese-test/</guid>
+      <description>&lt;p&gt;这是网站的文字测试博文&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
